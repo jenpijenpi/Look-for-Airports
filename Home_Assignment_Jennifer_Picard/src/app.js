@@ -1,7 +1,7 @@
 /* global instantsearch algoliasearch */
 
 const search = instantsearch({
-  indexName: 'demo_geo',
+  indexName: 'airportslist',
   searchClient: algoliasearch('L9IEEMQKW2', 'bbcf3c8cda512d7e5adcd4daff0c4748'),
 });
 

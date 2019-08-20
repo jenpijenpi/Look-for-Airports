@@ -1,4 +1,4 @@
-Fot the home assignment, I imported a list of airports as the indice, via the Algolia platform.
+Fot the home assignment, I imported a list of airports 'airportlist' (from Github) as the indice, via the Algolia platform.
 
 I used the tutorial for the InstantSearch and adapt it to my indice.
 I've modified the way data is display and the result disposition.
