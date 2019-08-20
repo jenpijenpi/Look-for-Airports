@@ -1,0 +1,42 @@
+body {
+  font-family: sans-serif;
+  padding: 1em;
+}
+
+.ais-SearchBox {
+  margin: 1em 0;
+}
+
+.ais-Pagination {
+  margin-top: 1em;
+}
+
+.ais-InstantSearch {
+  max-width: 1960px;
+  overflow: hidden;
+  margin: 0 auto;
+    padding-right: 50px;
+    padding-left: 50px;
+}
+
+.ais-Hits-item {
+  margin-bottom: 1em;
+  width: calc(25% - 1rem);
+}
+
+.hit-airport {
+    margin-bottom: 0.5em;
+    font-weight: bold;
+    color: #69022f;
+}
+
+.hit-name {
+  margin-bottom: 0.5em;
+  color: #9b0345;
+}
+
+.hit-location {
+  color: #ddbaba;
+  font-size: 14px;
+  margin-bottom: 0.5em;
+}
